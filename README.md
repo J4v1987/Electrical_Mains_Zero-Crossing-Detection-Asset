@@ -1,20 +1,19 @@
 # Mains-zero-crossing-detector
 <h3>Arduino Nano as Mains Zero-Crossing Detection Tool.</h3>
-<br></br>
 <p>Full-wave rectifies mains signal and compares it to a near-ground VDC signal to produce a 'zero' crossing signaling pulse.</p>
 <p>Comparison yields a current-sinking pulse, normally high.</p>
 <p>Pin D3 receives a digital (0-5VDC) falling edge trigger.</p>
 <p>Pin D2 receives a 0-5VDC pulse, generated with a push-button SW1 generated.</p>
 <p>Fast response time on zero-crossing of 1µs + Arduino digital processing cycles.</p>
 <p>Topology schematic available in 20250507 - SCH - Mains zero-crossing detector (components to be selected and dimensioned to suit application, glad to accompany</p>
-<br></br>
 <p>By: Javier.</p>
 <p>Portfolio: https://sites.google.com/view/b-eng-jarl/home</p>
 <p>Arduino Forums: j4v13r_987</p>
 <p>GitHub: J4v1987</p>
-<br></br>
 ![IMG_20250506_184608](https://github.com/J4v1987/Mains-zero-crossing-detector/blob/main/Media/IMG_20250506_184608.jpg)
+<br></br>
 ![20250506 - zero-crossing tool](https://github.com/J4v1987/Mains-zero-crossing-detector/blob/main/Media/20250506%20-%20zero-crossing%20tool.gif)
+<br></br>
 <h4>History:</h4>
   <p>H1. Loaded to Arduino Nano V3 using Arduino IDE 2.3.6. Deemed operational as per read-me media.</p>
 <br></br>
