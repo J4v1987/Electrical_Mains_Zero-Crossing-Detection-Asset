@@ -1,5 +1,3 @@
-![IMG_20250506_184608](https://github.com/J4v1987/Mains-zero-crossing-detector/blob/main/Media/IMG_20250506_184608.jpg)
-![20250506 - zero-crossing tool](https://github.com/J4v1987/Mains-zero-crossing-detector/blob/main/Media/20250506%20-%20zero-crossing%20tool.gif)
 # Mains-zero-crossing-detector
 <h3>Arduino Nano as Mains Zero-Crossing Detection Tool.</h3>
 <br></br>
@@ -15,6 +13,8 @@
 <p>Arduino Forums: j4v13r_987</p>
 <p>GitHub: J4v1987</p>
 <br></br>
+![IMG_20250506_184608](https://github.com/J4v1987/Mains-zero-crossing-detector/blob/main/Media/IMG_20250506_184608.jpg)
+![20250506 - zero-crossing tool](https://github.com/J4v1987/Mains-zero-crossing-detector/blob/main/Media/20250506%20-%20zero-crossing%20tool.gif)
 <h4>History:</h4>
   <p>H1. Loaded to Arduino Nano V3 using Arduino IDE 2.3.6. Deemed operational as per read-me media.</p>
 <br></br>
