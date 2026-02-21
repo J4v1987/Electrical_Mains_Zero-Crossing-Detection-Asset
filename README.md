@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="Media/20250506%20-%20zero-crossing%20tool.gif" width="60%">
+  <img src="https://github.com/user-attachments/assets/dea6e7c9-ceef-438c-a222-be81936ad9c0" width="80%">
 </p>
 <h4>History:</h4>
   <p>H1. Loaded to Arduino Nano V3 using Arduino IDE 2.3.6. Deemed operational as per read-me media.</p>
