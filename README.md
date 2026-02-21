@@ -11,11 +11,12 @@
 <p>Arduino Forums: j4v13r_987</p>
 <p>GitHub: J4v1987</p>
 
-![IMG_20250506_184608](https://github.com/user-attachments/assets/37cd1a5b-7b64-4d7c-b868-40ff6e0082b1)
-<br></br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/37cd1a5b-7b64-4d7c-b868-40ff6e0082b1" width="80%" alt="Static Figure">
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/af49b4ba-9068-45f1-9339-b5655fdb4823" width="60%" alt="Zero-crossing Tool GIF">
+</p>
 
-![20250506 - zero-crossing tool](https://github.com/user-attachments/assets/af49b4ba-9068-45f1-9339-b5655fdb4823)
-<br></br>
 <h4>History:</h4>
   <p>H1. Loaded to Arduino Nano V3 using Arduino IDE 2.3.6. Deemed operational as per read-me media.</p>
 <br></br>
