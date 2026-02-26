@@ -5,7 +5,8 @@
 <p>Pin D3 receives a digital (0-5VDC) falling edge trigger.</p>
 <p>Pin D2 receives a 0-5VDC pulse, generated with a push-button SW1 generated.</p>
 <p>Fast response time on zero-crossing of 1µs + Arduino digital processing cycles.</p>
-<p>Topology schematic available in 20250507 - SCH - Mains zero-crossing detector (components to be selected and dimensioned to suit application, glad to accompany</p>
+<p>Topology schematic available in 20250507 - SCH - Mains zero-crossing detector (components to be selected and dimensioned to suit application</p>
+<p>Should you wish to replicate, I'd be glad to accompany on request, do consider booking a call via my portfolio.</p>
 <p>By: Javier.</p>
 <p>Portfolio: https://sites.google.com/view/b-eng-jarl/home</p>
 <p>Arduino Forums: j4v13r_987</p>
