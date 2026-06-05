@@ -1,6 +1,6 @@
 # Mains-zero-crossing-detector
 <h3>Arduino Nano as Mains Zero-Crossing Detection Tool.</h3>
-<p>Aim: track electric phase zero-crossing to PI (PID) control mono/three-phase electric motors. </p>
+<p>Aim: detect electric phase zero-crossing, to PI (PID) control mono/three-phase electric motors. </p>
 <p>Full-wave rectifies mains signal and compares it to a near-ground VDC signal to produce a 'zero' crossing signaling pulse.</p>
 <p>Comparison yields a current-sinking pulse, normally high.</p>
 <p>Pin D3 receives a digital (0-5VDC) falling edge trigger.</p>
